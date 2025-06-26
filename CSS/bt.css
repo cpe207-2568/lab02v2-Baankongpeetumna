@@ -1,0 +1,125 @@
+.gs {
+  font-family: "Dongle", sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  font-style: normal;
+  color: #4B3F2F;
+}
+
+.gb {
+  font-family: "Dongle", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #4B3F2F;
+}
+
+.gsw {
+  font-family: "Dongle", sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  font-style: normal;
+  color: #ffffff;
+}
+
+.gbw {
+  font-family: "Dongle", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 50px;
+}
+
+#gic {
+  border: 3px solid rgb(120, 103, 58);
+  background-color: #F0EBCE;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  width: 670px;
+  height: 90px;
+  border-radius: 15px;
+}
+
+#gib {
+  border: 3px solid rgb(120, 103, 58);
+  background-color: #F0EBCE;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  width: 670px;
+  height: 130px;
+  border-radius: 15px;
+}
+
+.bgc {
+  background-color: #F0EBCE;
+  border: 3px solid rgb(120, 103, 58);
+  border-radius: 15px;
+  width: 740px;
+}
+
+.header {
+    height: 1in; 
+    background-color:rgb(120, 103, 58); 
+    width: 100%;
+    position: fixed; 
+    top: 0;
+    left: 0;
+    z-index: 1000;
+  }
+
+.content {
+    background-color:#F0EBCE; 
+    padding-top: 1.2in; 
+    min-height: 100vh;
+  }
+
+.gt {
+  display: inline-block;      
+  background-color: #f9f4d7;  
+  border: 2px solid #b89f5b;  
+  padding: 10px 15px;          
+  border-radius: 8px;         
+}
+
+.gf {
+  display: inline-block;      
+  background-color: #f9f4d7;  
+  border: 2px solid #b89f5b;  
+  padding: 10px 15px;          
+  border-radius: 8px;  
+  justify-content: center;       
+}
+
+
+.center-box {
+    width: 700px;
+    height: 500px;
+    background-color: rgb(59, 59, 59);
+    border-radius: 10px;
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    z-index: -1;
+  }
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+  
+}
+
+
